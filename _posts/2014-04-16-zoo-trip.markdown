@@ -1,0 +1,11 @@
+---
+layout: post
+title: Zoo Trip
+categories: jekyll
+---
+
+I went to the zoo today
+
+- zebra
+- kangaroo
+- monkey
